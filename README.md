@@ -2,7 +2,7 @@
 
 ## Overview
 This project demonstrates a **beginner-friendly product analytics workflow** using the Instacart Market Basket dataset. 
-It simulates a **feature flag experiment** to measure the impact of a new recommendation engine on user behavior.  
+It simulates a **feature flag experiment** to measure the impact of a new recommendation engine on user behavior. Written with GPT assistance for educational purposes. 
 
 **Skills showcased:**
 - Data cleaning and exploration with Pandas  
